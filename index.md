@@ -20,7 +20,7 @@ Based in Milan, graduated at Università degli Studi di Salerno in Computer Engi
 
 ## Work experience
 
-__Treatwell__ (remote)
+### __Treatwell__ (remote)
 
 `11/20222 - current`
 
@@ -39,7 +39,7 @@ Projects:
 - Invoicing process optimisation
 - Stripe connect integration
 
-__Satispay__ (Milan, Italy)
+### __Satispay__ (Milan, Italy)
 
 Tech stack: Java, Postgres, AWS, DynamoDB, Spring boot
 
@@ -69,7 +69,7 @@ Projects:
 - State cashback program integration
 - e-wallet weekly top-up
 
-__Interactive Thinking S.r.l.__ (Milan, Italy)
+### __Interactive Thinking S.r.l.__ (Milan, Italy)
 
 Tech stack: Java, AWS, Spring boot, JHipster
 
@@ -80,7 +80,7 @@ Tech stack: Java, AWS, Spring boot, JHipster
 I worked as a Java Back-End Developer on a billing system that provides services to haulers companies.
 The application was based on a microservice architecture implemented using Spring Boot and JHipster.
 
-__Funambol S.r.l.__ (Pavia, Italy)
+### __Funambol S.r.l.__ (Pavia, Italy)
 
 Tech stack: Java, MySQL, Tomcat
 
@@ -90,7 +90,7 @@ Tech stack: Java, MySQL, Tomcat
 
 In Funambol, I was a Java backend developer on OneMediaHub (personal cloud platform) and OneBizHub (business cloud platform).
 
-__T4Project S.r.l.__ (Milan, Italy)
+### __T4Project S.r.l.__ (Milan, Italy)
 
 Tech stack: Java, SpringBoot, JSP, XSL, HTML
 
@@ -100,7 +100,7 @@ Tech stack: Java, SpringBoot, JSP, XSL, HTML
 
 Consultant at Jakala Group and Allianz. I was in charge of developing Java-based web applications.
 
-__Accenture S.p.A.__ (Milan, Italy)
+### __Accenture S.p.A.__ (Milan, Italy)
 
 Tech stack: Java, Spring, JSP, JQuery, HTML
 
