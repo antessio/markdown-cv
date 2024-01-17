@@ -31,15 +31,6 @@ RabbitMQ events and HTTP APIs to communicate.
 In my team I'm responsible for some tech initiatives like: defining a
 testing strategy and defining a code review proces
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 ## Education
 
