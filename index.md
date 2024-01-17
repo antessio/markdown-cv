@@ -20,8 +20,9 @@ Based in Milan, graduated at Università degli Studi di Salerno in Computer Engi
 
 ## Work experience
 
-`11/20222 - current`
 __Treatwell__ (remote)
+
+`11/20222 - current`
 
 Tech stack: Java, RabbitMQ, Spring boot, Postgres, MSSQL, AWS
 
@@ -38,10 +39,11 @@ Projects:
 - Invoicing process optimisation
 - Stripe connect integration
 
-`01/2021 - 10/2022`
 __Satispay__ (Milan, Italy)
 
 Tech stack: Java, Postgres, AWS, DynamoDB, Spring boot
+
+`01/2021 - 10/2022`
 
 **Lead Software Engineer**
 
@@ -59,7 +61,6 @@ Projects:
 
 
 `06/2019 - 01/2021`
-__Satispay__ (Milan, Italy)
 
 **Software Engineer**
 
@@ -68,39 +69,42 @@ Projects:
 - State cashback program integration
 - e-wallet weekly top-up
 
-`07/2018 - 06/2019`
 __Interactive Thinking S.r.l.__ (Milan, Italy)
 
 Tech stack: Java, AWS, Spring boot, JHipster
+
+`07/2018 - 06/2019`
 
 **Software Engineer**
 
 I worked as a Java Back-End Developer on a billing system that provides services to haulers companies.
 The application was based on a microservice architecture implemented using Spring Boot and JHipster.
 
-`03/2016 - 07/2018`
 __Funambol S.r.l.__ (Pavia, Italy)
 
 Tech stack: Java, MySQL, Tomcat
 
-**Software Engineer**
+`03/2016 - 07/2018`
 
+**Software Engineer**
 
 In Funambol, I was a Java backend developer on OneMediaHub (personal cloud platform) and OneBizHub (business cloud platform).
 
-`12/2014 - 03/2016`
 __T4Project S.r.l.__ (Milan, Italy)
 
 Tech stack: Java, SpringBoot, JSP, XSL, HTML
+
+`12/2014 - 03/2016`
 
 **Software Engineer**
 
 Consultant at Jakala Group and Allianz. I was in charge of developing Java-based web applications.
 
-`10/2012 - 11/2014`
 __Accenture S.p.A.__ (Milan, Italy)
 
 Tech stack: Java, Spring, JSP, JQuery, HTML
+
+`10/2012 - 11/2014`
 
 **Software Engineer**
 
