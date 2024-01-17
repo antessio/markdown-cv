@@ -13,8 +13,7 @@ Senior Software Engineer.
 
 ## About me
 
-I'm a software engineer and open-source lover with a solid passion for
-TDD.
+I'm a software engineer and open-source lover with a solid passion for TDD and DDD.
 Based in Milan, graduated at Università degli Studi di Salerno in Computer Engineering.
 
 
@@ -22,82 +21,63 @@ Based in Milan, graduated at Università degli Studi di Salerno in Computer Engi
 
 `11/20222 - current`
 __Treatwell__ (remote)
+
 **Senior Software Engineer - Payment team**
+Tech stack: Java, RabbitMQ, Spring boot, Postgres, MSSQL, AWS
 
 My team is responsible for the payment and the invoicing system.
-We use Domain-Driven-Design and hexagonal architecture as the
-architectural patterns. We work on a distributed system that use
-RabbitMQ events and HTTP APIs to communicate.
-In my team I'm responsible for some tech initiatives like: defining a
-testing strategy and defining a code review proces
+We use Domain-Driven-Design and hexagonal architecture as the architectural patterns. 
+We work on a distributed system that use RabbitMQ events and HTTP APIs to communicate.
+In addition to conventional responsibilities such as development, code review, manage support tickets from other teams, I'm also responsible for some tech initiatives within my team. 
+These initiatives include formulating a comprehensive testing strategy, establishing an effective code review process and defining a coding guidelines.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Projects:
+- Invoicing process optimisation
+- Stripe connect integration
 
-- Sizar
+`01/2021 - 10/2022`
+__Satispay__ (Milan, Italy)
+Tech stack: Java, Postgres, AWS, DynamoDB, Spring boot
 
-`1667 - death`
-__Trinity College, Cambridge__
+**Lead Software Engineer**
 
-- Fellow
+I worked as both a manager and a technical leader. As a manager of a 6-person team, my responsibilities included overseeing the delivery and quality of the features we implemented. 
+I conducted regular 1:1 meetings and annual performance reviews. Additionally, I actively participated in the hiring process, conducting technical test reviews and technical interviews. I took part of onboarding new team members, fostering team growth, and promoting company values.
 
-## Education
+In my role as a technical leader, I was responsible for project design and rollout, consistently deploying a scalable system while maintaining the highest quality.
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Projects:
+- IBAN verification through a custom rule engine
+- MySQL to Postgres migration
+- Mobile Top-ups
+- Gift Cards
+- Push notifications optimisation
 
 
+`06/2019 - 01/2021`
+__Satispay__ (Milan, Italy)
 
-## Awards
+**Software Engineer**
 
-`2012`
-President, *Royal Society*, London, UK
+Projects:
+- Cashback campaigns optimisation
+- State cashback program integration
+- e-wallet weekly top-up
 
-Associate, *French Academy of Science*, Paris, France
+## Education and training
 
+`2007-2011`
+__Bachelor's degree - Computer Engineering (Università degli Studi di Salerno)__
 
+`2003 - 2007`
+__Diploma di Ragioniere e Programmatore -  Istituto Tecnico Commerciale F. Besta__
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+## Hobbies and interests
+- Boxing
+- Chess
+- Reading
+- Chess Boxing
+- Hydroponic culture
 
 
 <!-- ### Footer
