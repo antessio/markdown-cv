@@ -22,9 +22,9 @@ Based in Milan, graduated at Università degli Studi di Salerno in Computer Engi
 
 ### __Treatwell__ (remote)
 
-`11/20222 - current`
-
 Tech stack: Java, RabbitMQ, Spring boot, Postgres, MSSQL, AWS
+
+`11/20222 - current`
 
 **Senior Software Engineer - Payment team**
 
