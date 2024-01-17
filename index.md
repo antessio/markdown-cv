@@ -7,7 +7,7 @@ Senior Software Engineer.
 
 <div id="webaddress">
 <a href="antessio7@agmail.com"><i class="fa-solid fa-users"></i>  antessio7@gmail.com</a> -
-<a href="https://github.com/antessio"> <i class="fa-brands fa-github"></i>My github page</a> - 
+<a href="https://github.com/antessio"><i class="fa-brands fa-github"></i> My github page</a> - 
 <a href="https://www.linkedin.com/in/antonio-d-alessio-50149466/"><i class="fa-brands fa-linkedin"></i> Linkedin </a> - 
 </div>
 
@@ -64,6 +64,43 @@ Projects:
 - Cashback campaigns optimisation
 - State cashback program integration
 - e-wallet weekly top-up
+
+`07/2018 - 06/2019`
+__Interactive Thinking S.r.l.__ (Milan, Italy)
+
+Tech stack: Java, AWS, Spring boot, JHipster
+
+**Software Engineer**
+
+I worked as a Java Back-End Developer on a billing system that provides services to haulers companies.
+The application was based on a microservice architecture implemented using Spring Boot and JHipster.
+
+`03/2016 - 07/2018`
+__Funambol S.r.l.__ (Pavia, Italy)
+
+**Software Engineer**
+
+Tech stack: Java, MySQL, Tomcat
+
+In Funambol, I was a Java backend developer on OneMediaHub (personal cloud platform) and OneBizHub (business cloud platform).
+
+`12/2014 - 03/2016`
+__T4Project S.r.l.__ (Milan, Italy)
+
+**Software Engineer**
+
+Tech stack: Java, SpringBoot, JSP, XSL, HTML
+
+Consultant at Jakala Group and Allianz. I was in charge of developing Java-based web applications.
+
+`10/2012 - 11/2014`
+__Accenture S.p.A.__ (Milan, Italy)
+
+**Software Engineer**
+
+Tech stack: Java, Spring, JSP, JQuery, HTML
+
+Java Development of web applications. Analysis and implementation of new systems to manage a customer's business process in the energetic resources area.
 
 ## Education and training
 
