@@ -24,6 +24,7 @@ Based in Milan, graduated at Università degli Studi di Salerno in Computer Engi
 __Treatwell__ (remote)
 
 **Senior Software Engineer - Payment team**
+
 Tech stack: Java, RabbitMQ, Spring boot, Postgres, MSSQL, AWS
 
 My team is responsible for the payment and the invoicing system.
@@ -38,6 +39,7 @@ Projects:
 
 `01/2021 - 10/2022`
 __Satispay__ (Milan, Italy)
+
 Tech stack: Java, Postgres, AWS, DynamoDB, Spring boot
 
 **Lead Software Engineer**
