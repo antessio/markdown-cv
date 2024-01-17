@@ -6,8 +6,9 @@ title: Antonio D'Alessio CV
 Senior Software Engineer.
 
 <div id="webaddress">
-<a href="antessio7@agmail.com">antessio7@gmail.com</a>
-| <a href="https://github.com/antessio">My github page</a>
+<a href="antessio7@agmail.com"><i class="fa-solid fa-users"></i>  antessio7@gmail.com</a> -
+<a href="https://github.com/antessio"> <i class="fa-brands fa-github"></i>My github page</a> - 
+<a href="https://www.linkedin.com/in/antonio-d-alessio-50149466/"><i class="fa-brands fa-linkedin"></i> Linkedin </a> - 
 </div>
 
 
