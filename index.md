@@ -23,9 +23,10 @@ Based in Milan, graduated at Università degli Studi di Salerno in Computer Engi
 `11/20222 - current`
 __Treatwell__ (remote)
 
+Tech stack: Java, RabbitMQ, Spring boot, Postgres, MSSQL, AWS
+
 **Senior Software Engineer - Payment team**
 
-Tech stack: Java, RabbitMQ, Spring boot, Postgres, MSSQL, AWS
 
 My team is responsible for the payment and the invoicing system.
 We use Domain-Driven-Design and hexagonal architecture as the architectural patterns. 
@@ -80,27 +81,28 @@ The application was based on a microservice architecture implemented using Sprin
 `03/2016 - 07/2018`
 __Funambol S.r.l.__ (Pavia, Italy)
 
+Tech stack: Java, MySQL, Tomcat
+
 **Software Engineer**
 
-Tech stack: Java, MySQL, Tomcat
 
 In Funambol, I was a Java backend developer on OneMediaHub (personal cloud platform) and OneBizHub (business cloud platform).
 
 `12/2014 - 03/2016`
 __T4Project S.r.l.__ (Milan, Italy)
 
-**Software Engineer**
-
 Tech stack: Java, SpringBoot, JSP, XSL, HTML
+
+**Software Engineer**
 
 Consultant at Jakala Group and Allianz. I was in charge of developing Java-based web applications.
 
 `10/2012 - 11/2014`
 __Accenture S.p.A.__ (Milan, Italy)
 
-**Software Engineer**
-
 Tech stack: Java, Spring, JSP, JQuery, HTML
+
+**Software Engineer**
 
 Java Development of web applications. Analysis and implementation of new systems to manage a customer's business process in the energetic resources area.
 
